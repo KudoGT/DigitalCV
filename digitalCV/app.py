@@ -15,7 +15,7 @@ Page_title = 'Digital CV | Yash Raj'
 Page_Icon = ':wave:'
 Name = 'Yash Raj'
 Description = ''' '''
-Email = 'hirokikudogt@gmail.com'
+Email = 'yashraj992002@gmail.com'
 Social_Media = {'Linkedln':'https://www.linkedin.com/in/yash-raj-07a6a0209/',
                 'GitHub':'https://github.com/KudoGT'
                 }
@@ -75,10 +75,10 @@ st.write('\n')
 st.subheader('Hard Skills')
 st.write(
     """
-    - Programing : Python (Scikit-learn, Pandas, Numpy, Tensorflow, OpenCV, Spacy), SQL
-    - Data Visualization : PowerBi, MS Excel, Plotly, Matplot, Seaborn
-    - Modeling : Logistic Regression , Linear Regression, Decesion Tree, RNN, CNN, ANN, NLP
-    - Databases : MySQL
+    - Programing : Python
+    - Libraries/Framework : Supervised Machine Learning, NLP, Pytorch, Tensorflow, DeepLearning(ANN, RNN, CNN, LSTM, LLM, GRU)
+    - Operating Tools: Jupyter Notebook, Git, SQL, VsCode, Pycharm
+    - Operating systems: Windows
     """
 )
 
