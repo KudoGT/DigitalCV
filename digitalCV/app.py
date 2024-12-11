@@ -20,9 +20,11 @@ Social_Media = {'Linkedln':'https://www.linkedin.com/in/yash-raj-07a6a0209/',
                 'GitHub':'https://github.com/KudoGT'
                 }
 Projects ={
-    '🏆 Sentiment Analysis of Social Media': '',
-    '🏆 Duplicate Question Pair Classifier': '',
+    '🏆 Sentiment Analysis for Social Media': '',
+    '🏆 Quora Duplicate Question Pair Classifier': '',
     '🏆 Face Recognition System using Siamese Network': '',
+    '🏆 Multipurpose Discord chatbot': '',
+    '🏆 Crop Weed Detection Using Yolov4': '',
 }
 
 st.set_page_config(page_title=Page_title, page_icon=Page_Icon)
