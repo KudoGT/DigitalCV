@@ -78,7 +78,7 @@ st.subheader('Hard Skills')
 st.write(
     """
     - Programing : Python
-    - Libraries/Framework : Supervised Machine Learning, NLP, Pytorch, Tensorflow, DeepLearning(ANN, RNN, CNN, LSTM, LLM, GRU)
+    - Libraries/Framework : Supervised Machine Learning, NLP, Pytorch, Tensorflow, DeepLearning(ANN, RNN, CNN, LSTM, LLM, GRU), Streamlit, Flask
     - Operating Tools: Jupyter Notebook, Git, SQL, VsCode, Pycharm
     - Operating systems: Windows
     """
